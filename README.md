@@ -93,6 +93,8 @@ The container will listen on port `8000`, published locally on port `8080`. The 
 
 Start with the milestones in the [DeployBox project guide](DeployBox_Project_Guide.md).
 
+Follow the [Milestone 1 step-by-step guide](docs/milestone-1-demo-app.md) to build, test, and run the demo application locally and in Docker.
+
 For local development, prepare Python, Git, Docker, and `curl`. Terraform, the AWS CLI, and an AWS account will be needed for the infrastructure milestone. Runnable installation and deployment instructions will be added as each component is implemented.
 
 ### Planned repository layout

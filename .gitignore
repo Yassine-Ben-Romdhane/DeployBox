@@ -1,0 +1,5 @@
+DeployBox_Project_Guide.md
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
